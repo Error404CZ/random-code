@@ -1,0 +1,6 @@
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/obj/Debug/cviceniFunkce.csproj.AssemblyReference.cache
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/obj/Debug/cviceniFunkce.csproj.CoreCompileInputs.cache
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/bin/Debug/cviceniFunkce.exe
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/bin/Debug/cviceniFunkce.pdb
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/obj/Debug/cviceniFunkce.exe
+/home/filiph/Documents/GitHub/random-code/cviceniFunkce/cviceniFunkce/obj/Debug/cviceniFunkce.pdb
