@@ -1,2 +1,2 @@
 # random-code
-C# and python random code.
+My shit random C# and python code.
