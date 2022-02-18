@@ -1,0 +1,6 @@
+/home/filiph/Documents/GitHub/random-code/Test/Test/bin/Debug/Test.exe
+/home/filiph/Documents/GitHub/random-code/Test/Test/bin/Debug/Test.pdb
+/home/filiph/Documents/GitHub/random-code/Test/Test/obj/Debug/Test.csproj.AssemblyReference.cache
+/home/filiph/Documents/GitHub/random-code/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/home/filiph/Documents/GitHub/random-code/Test/Test/obj/Debug/Test.exe
+/home/filiph/Documents/GitHub/random-code/Test/Test/obj/Debug/Test.pdb
