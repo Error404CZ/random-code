@@ -1,0 +1,6 @@
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/bin/Debug/pripravaNaTest.exe
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/bin/Debug/pripravaNaTest.pdb
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/obj/Debug/pripravaNaTest.csproj.AssemblyReference.cache
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/obj/Debug/pripravaNaTest.csproj.CoreCompileInputs.cache
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/obj/Debug/pripravaNaTest.exe
+/home/filiph/Documents/GitHub/random-code/pripravaNaTest/pripravaNaTest/obj/Debug/pripravaNaTest.pdb
