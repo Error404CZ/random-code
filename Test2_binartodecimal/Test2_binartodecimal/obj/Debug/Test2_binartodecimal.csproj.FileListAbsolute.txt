@@ -1,0 +1,6 @@
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/bin/Debug/Test2_binartodecimal.exe
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/bin/Debug/Test2_binartodecimal.pdb
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/obj/Debug/Test2_binartodecimal.csproj.AssemblyReference.cache
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/obj/Debug/Test2_binartodecimal.csproj.CoreCompileInputs.cache
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/obj/Debug/Test2_binartodecimal.exe
+/home/filiph/Documents/GitHub/random-code/Test2_binartodecimal/Test2_binartodecimal/obj/Debug/Test2_binartodecimal.pdb

@@ -1,0 +1,6 @@
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/bin/Debug/Test2_postupnost.exe
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/bin/Debug/Test2_postupnost.pdb
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/obj/Debug/Test2_postupnost.csproj.AssemblyReference.cache
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/obj/Debug/Test2_postupnost.csproj.CoreCompileInputs.cache
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/obj/Debug/Test2_postupnost.exe
+/home/filiph/Documents/GitHub/random-code/Test2_postupnost/Test2_postupnost/obj/Debug/Test2_postupnost.pdb
