@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\obj\Debug\Translator.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\obj\Debug\Translator.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\filip\Documents\Random-Code\random-code\Translator\Translator\obj\Debug\Translator.pdb
