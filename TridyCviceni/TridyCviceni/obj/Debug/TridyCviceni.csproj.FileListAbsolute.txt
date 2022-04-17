@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\bin\Debug\TridyCviceni.exe
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\bin\Debug\TridyCviceni.pdb
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\obj\Debug\TridyCviceni.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\obj\Debug\TridyCviceni.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\obj\Debug\TridyCviceni.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\obj\Debug\TridyCviceni.exe
+C:\Users\filip\Documents\Random-Code\random-code\TridyCviceni\TridyCviceni\obj\Debug\TridyCviceni.pdb

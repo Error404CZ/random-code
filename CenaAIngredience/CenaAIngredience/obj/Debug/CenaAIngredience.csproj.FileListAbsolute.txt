@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\bin\Debug\CenaAIngredience.exe
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\bin\Debug\CenaAIngredience.pdb
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\obj\Debug\CenaAIngredience.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\obj\Debug\CenaAIngredience.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\obj\Debug\CenaAIngredience.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\obj\Debug\CenaAIngredience.exe
+C:\Users\filip\Documents\Random-Code\random-code\CenaAIngredience\CenaAIngredience\obj\Debug\CenaAIngredience.pdb
