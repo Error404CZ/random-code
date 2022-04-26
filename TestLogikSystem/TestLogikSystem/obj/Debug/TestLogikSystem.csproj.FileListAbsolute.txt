@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\bin\Debug\TestLogikSystem.exe
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\bin\Debug\TestLogikSystem.pdb
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\obj\Debug\TestLogikSystem.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\obj\Debug\TestLogikSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\obj\Debug\TestLogikSystem.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\obj\Debug\TestLogikSystem.exe
+C:\Users\filip\Documents\Random-Code\random-code\TestLogikSystem\TestLogikSystem\obj\Debug\TestLogikSystem.pdb

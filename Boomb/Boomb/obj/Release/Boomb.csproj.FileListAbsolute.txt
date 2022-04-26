@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\bin\Release\Boomb.exe
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\bin\Release\Boomb.pdb
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\obj\Release\Boomb.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\obj\Release\Boomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\obj\Release\Boomb.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\obj\Release\Boomb.exe
+C:\Users\filip\Documents\Random-Code\random-code\Boomb\Boomb\obj\Release\Boomb.pdb

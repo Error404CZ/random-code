@@ -1,0 +1,3 @@
+C:\Users\filip\Documents\Random-Code\random-code\MatousApp\MatousApp\obj\Debug\MatousApp.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Random-Code\random-code\MatousApp\MatousApp\obj\Debug\MatousApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Documents\Random-Code\random-code\MatousApp\MatousApp\obj\Debug\MatousApp.csproj.CoreCompileInputs.cache
